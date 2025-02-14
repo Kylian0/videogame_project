@@ -1,0 +1,36 @@
+# Fichiers Unity inutiles pour Git
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+
+# Fichiers spécifiques aux plateformes
+*.apk
+*.aab
+*.unitypackage
+
+# Fichiers de configuration utilisateur
+UserSettings/
+*.sln
+*.csproj
+*.pidb
+*.suo
+*.user
+*.userprefs
+*.unityproj
+*.booproj
+
+# Fichiers de cache
+.vs/
+.vscode/
+.idea/
+*.swp
+*.lock
+*.tmp
+
+# Ignorer les fichiers spécifiques à macOS et Windows
+.DS_Store
+Thumbs.db
